@@ -1,2 +1,8 @@
-# Algorithm-Competition
-用于记录算法竞赛代码等内容
+目标分数：
+
+Codeforces：1600
+
+
+
+待补题目：
+
